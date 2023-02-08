@@ -7,4 +7,9 @@ It is AI chatbot. Implemented with the OpenAI chatgpt api's.
 
 ### API Kyes
 
-For the Api Key you need to take api's key from [OpenApi](https://platform.openai.com/account/api-keys)
+For the Api Key you need to take api's key from [OpenApi](https://platform.openai.com/account/api-keys) and put in .env file.
+
+
+Happy Coding 
+
+Thanks !! 
